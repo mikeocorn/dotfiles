@@ -1,13 +1,13 @@
 [user]
-	name = Brandon Morse
-	email = brandon@morsecodemedia.com
+	name = Mike Corn
+	email = mike.o.corn@gmail.com
 
 [github]
-	user  = morsecodemedia
+	user  = mikeocorn
 
 [core]
 	whitespace        = trailing-space, space-before-tab, cr-at-eol
-	excludesfile = /Users/brandon.morse/.gitignore_global
+	excludesfile = /Sites/system/dotfiles/git/.gitignore_global
 	editor            = 'vim'
 	eol               = native
 	autocrlf          = input
@@ -66,7 +66,7 @@
 	trustExitCode = true
 
 [commit]
-	template = /Users/brandon.morse/.stCommitMsg
+	template = /Users/mikeocorn/.stCommitMsg
 
 [branch]
 	autosetupmerge = true
